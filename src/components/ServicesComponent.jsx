@@ -10,25 +10,37 @@ function ServicesComponent({}) {
   let services = [
     {
       head: "Harrison Assessment",
-      text: "Procena preferencija, snaga i mogucnosti za dalji razvoj. Harrison Assessment je inovativno rešenje koje onogućava brže i efikasnije prepoznavanje snaga i oblasti za razvoj kod zaposlenih. Ovaj assessment omogućava detaljan uvid u motivaciju zaposlenih i meri ponašajne osobine vezane za uspeh na konkretnom radnom mestu. Pored navedenog, ukoliko želite da smanjite vreme procesa selekcije, ovo je idealno rešenje",
+      text: "Procena preferencija, snaga i mogucnosti za dalji razvoj. Harrison Assessment je inovativno rešenje koje omogućava brže i efikasnije prepoznavanje snaga i oblasti za razvoj kod zaposlenih. Ovaj assessment omogućava detaljan uvid u motivaciju zaposlenih i meri ponašajne osobine vezane za uspeh na konkretnom radnom mestu. Pored navedenog, ukoliko želite da smanjite vreme procesa selekcije, ovo je idealno rešenje.",
       img: man,
     },
     {
       head: "Lego® Serious Play® metodologija",
-      text: "LSP® metodologija - metodologija koja je potekla iz same suštine onoga što LEGO čini jedinstvenim: mašta, kreativnost i praktično građenje. Ova metodologija koristi jedinstvenu moć mašte i metafore da unapredi poslovnu komunikaciju, timski rad i donošenje odluka. Kroz igru koja ima svrhu, dobijate prostor da izrazite svoje ideje, uvide i vizije na potpuno nov i vizuelan način. Za kreiranje strategija i planova kockicu po kockicu. ",
+      text: "LSP® metodologija - metodologija koja je potekla iz same suštine onoga što LEGO čini jedinstvenim: mašta, kreativnost i praktično građenje. Ova metodologija koristi jedinstvenu moć mašte i metafore da unapredi poslovnu komunikaciju, timski rad i donošenje odluka. Kroz igru koja ima svrhu, dobijate prostor da izrazite svoje ideje, uvide i vizije na potpuno nov i vizuelan način. Za kreiranje strategija i planova, kockicu po kockicu. ",
       img: improvement,
     },
     {
       head: "Lego® Serious Play® metodologija",
       text: (
-        `Program unapređenje poslovanja kroz jedinsvenu LSP® metodologiju je dvodnevni program. Unapređenje poslovanja sa LEGO kockicama i fasilitaciju za podsticanje kreativnog mišljenja. Ova metodologija se bazira na ideji da svi učesnicii aktivni doprinose kroz “razmišljanje rukama”, čime se podstiče dublje razumevanje i veća angažovanost.
-Program LSP® za kouce je dvodnevni program namenjen koučevima koji žele da nauče da koriste LSP® metodologiju. LSP® je fantastičan alat za kouceve, jer unosi novu dimenziju u koucing proces - vizuelnu, taktilnu i metaforičku. LSP® pomaže klijentima da “izađu iz glave i pričaju rukama”, čime se brže i dublje dolazi do uvida i rešenje`
+        <p>
+          Program unapređenja poslovanja zasnovan na jedinstvenoj LSP®
+          metodologiji. Kroz rad sa LEGO kockicama i facilitaciju koja podstiče
+          kreativno razmišljanje, učesnici aktivno doprinose procesu kroz tzv. 
+          „razmišljanje rukama“.Na taj način se podstiče dublje razumevanje i
+          veća angažovanost.
+          <br />
+          <br />
+          LSP® program za koučeve i HR stručnjake namenjen je onima koji žele
+          da nauče kako da koriste ovu metodologiju u svom radu. LSP® je
+          izuzetan alat, jer u proces unosi novu dimenziju – vizuelnu, taktilnu
+          i metaforičku. Pomaže klijentima da „izađu iz glave i počnu da
+          razmišljaju rukama“, čime se brže i dublje dolazi do uvida i rešenja.
+        </p>
       ),
       img: arrows,
     },
     {
       head: "Koučing",
-      text: "Individulani koučing - koucing je alat za licni razvoj. Kroz individulane sesije, kouč pomaže klijentima da identifikuju svoje snage, razviju samosvest i razviju strategiju za prevazilaženje izazova. Sesije su prilagođene klijentovim potrebama i ciljevima. Kroz personalizivan pristup zajedno prevazilazimo prepreko i postižemo ciljeve.",
+      text: "Individualni koučing – koučing je alat za lični razvoj. Kroz individualne sesije, kouč pomaže klijentima da identifikuju svoje snage, razviju samosvest i razviju strategiju za prevazilaženje izazova. Sesije su prilagođene klijentovim potrebama i ciljevima. Kroz personalizovan pristup zajedno prevazilazimo prepreke i postižemo ciljeve.",
       img: attract,
     },
   ];

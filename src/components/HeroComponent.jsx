@@ -10,18 +10,17 @@ function HeroComponent() {
             Zovem se Aleksandra
           </h1>
           <p className="w-[80%] text-[17px]/7 letter text-center lg:text-justify opacity-100 md:pb-10 font-semibold">
-            Nisam kao drugi. Ne verujem u instant motivacije niti u univerzalne
-            formule za uspeh. Moj rad je usmeren na stvaranje prostora za
+            Moj rad je usmeren na stvaranje prostora za
             stvarnu introspekciju, gde ne postoji "bolja verzija sebe", vec samo
             autentična verzija tvoje unutrašnje snage. Koristim Harrison
-            assessment da bih ti pomogla da razjasniš svoje prave vrednosti,
+            Assessment da bih ti pomogla da razjasniš svoje prave vrednosti,
             motivaciju i potencijale, bez predrasuda ili šablonaskih pristupa.
             Kroz LEGO® SERIOUS PLAY® metodologiju, stvaram okruženje u
             kojem se kroz igru i kreativnost otrkivaju rešenja i strategije koje
             su skrivene u tebi i tvom timu. Moj pristup nije da te "popravim",
             već da te vidim - stvarno i bez filtera. Ako si spreman da se uputiš
             u duboku refleksiju i pravi korak ka promenama koje dolaze iznutra,
-            onda si na pravom mestu. Rast, radionice i LEGO® čarolije za “Aha” momenat.
+            onda si na pravom mestu. Rast, radionice i LEGO®.
           </p>
         </div>
         <img src={prava} alt="" className="sm:w-[50%] md:mt-40 mx-auto" />
