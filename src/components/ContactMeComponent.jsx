@@ -19,10 +19,16 @@ function ContactMeComponent() {
       <div className="flex flex-col lg:flex-row mx-auto container items-center justify-center w-full">
         <div className="flex flex-col items-center justify-center pt-20 lg:pt-0 z-10 gap-5">
           <img src={logo} alt="" className="w-[30%]" />
-          <h1 className="text-[64px] text-center pt-10 lg:pt-0">
-            Aleksandra Anđelić
-          </h1>
-          <img src={ha} className="w-[40%]"/>
+          <div>
+            <h1 className="text-[64px] text-center pt-10 lg:pt-0">
+              Aleksandra Anđelić
+            </h1>
+            <h3 className="text-2xl text-center">
+              Master menadzer ljudskih resursa, psiholog sa deset godina
+              iskustva u radu sa ljudima i u ljudskim resursima
+            </h3>
+          </div>
+          <img src={ha} className="w-[40%]" />
         </div>
         <div className="flex flex-col gap-10 pt-1 lg:pl-80 z-10">
           <h1 className="text-[64px] mx-auto lg:m-0 pt-30 text-justfiy">
