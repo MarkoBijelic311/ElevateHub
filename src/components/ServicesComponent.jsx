@@ -15,7 +15,7 @@ function ServicesComponent({}) {
     },
     {
       head: "Lego® Serious Play® metodologija",
-      text: "LSP® metodologija - metodologija koja je potekla iz same suštine onoga što LEGO čini jedinstvenim: mašta, kreativnost i praktično građenje. Ova metodologija koristi jedinstvenu moć mašte i metafore da unapredi poslovnu komunikaciju, timski rad i donošenje odluka. Kroz igru koja ima svrhu, dobijate prostor da izrazite svoje ideje, uvide i vizije na potpuno nov i vizuelan način. Za kreiranje strategija i planova, kockicu po kockicu. ",
+      text: "LSP® metodologija - metodologija koja je potekla iz same suštine onoga što LEGO® čini jedinstvenim: mašta, kreativnost i praktično građenje. Ova metodologija koristi jedinstvenu moć mašte i metafore da unapredi poslovnu komunikaciju, timski rad i donošenje odluka. Kroz igru koja ima svrhu, dobijate prostor da izrazite svoje ideje, uvide i vizije na potpuno nov i vizuelan način. Za kreiranje strategija i planova, kockicu po kockicu. ",
       img: improvement,
     },
     {
@@ -23,7 +23,7 @@ function ServicesComponent({}) {
       text: (
         <p>
           Program unapređenja poslovanja zasnovan na jedinstvenoj LSP®
-          metodologiji. Kroz rad sa LEGO kockicama i facilitaciju koja podstiče
+          metodologiji. Kroz rad sa LEGO® kockicama i facilitaciju koja podstiče
           kreativno razmišljanje, učesnici aktivno doprinose procesu kroz tzv. 
           „razmišljanje rukama“.Na taj način se podstiče dublje razumevanje i
           veća angažovanost.
