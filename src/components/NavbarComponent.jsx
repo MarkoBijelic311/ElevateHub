@@ -15,7 +15,7 @@ function NavbarComponent() {
         <img
           src={logo}
           alt="logo"
-          className="flex items-center h-30 w-30 mt-5"
+          className="flex items-center h-20 w-20 mt-5"
         />
         <div className="flex gap-10 text-white text-xl text-md">
           {/* Desktop links */}

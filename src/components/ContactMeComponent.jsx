@@ -9,7 +9,7 @@ import ha from "../assets/ha.png";
 function ContactMeComponent() {
   return (
     <div
-      className="relative py-30 font-arial text-[#8B2318] bg-[rgb(235,231,223)]"
+      className="relative py-60 font-arial text-[#8B2318] bg-[rgb(235,231,223)]"
       id="contactMe"
     >
       {/* <img src={eclipse} alt="" className="absolute top-0 left-0 h-70 w-70" /> */}

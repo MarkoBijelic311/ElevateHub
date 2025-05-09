@@ -69,7 +69,7 @@ function ServicesComponent({}) {
               >
                 {service.head}
               </h1>
-              <img src={service.img} alt="" className="h-15 w-15" />
+              <img src={service.img} alt="" className="h-14 w-14" />
             </div>
             <p
               className={`w-full text-justify ${
