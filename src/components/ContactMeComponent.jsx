@@ -24,8 +24,9 @@ function ContactMeComponent() {
               Aleksandra Anđelić
             </h1>
             <h3 className="text-2xl text-center">
-              Master menadzer ljudskih resursa, psiholog sa deset godina
-              iskustva u radu sa ljudima i u ljudskim resursima
+              Psiholog i master menadžer ljudskih resursa, sa više od deset
+              godina iskustva u radu s ljudima, razvoju zaposlenih i unapređenju
+              HR procesa.
             </h3>
           </div>
           <img src={ha} className="w-[40%]" />
