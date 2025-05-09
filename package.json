@@ -35,7 +35,8 @@
     ">0.2%",
     "not dead",
     "not op_mini all",
-    "last 50 Safari versions",
+    "Safari >= 10",
+    "last 2 versions",
     "last 2 Chrome versions",
     "last 2 Firefox versions",
     "last 2 Edge versions"
