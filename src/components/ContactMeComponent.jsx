@@ -43,7 +43,7 @@ function ContactMeComponent() {
           <div className="flex flex-col lg:flex-row gap-2 items-center">
             <FaPhoneAlt className="text-3xl" />
             <span className="text-2xl pl-5 text-center lg:text-justify">
-              060 64 69 991
+              <a href="tel:060 64 69 991">060 64 69 991</a>
             </span>
           </div>
           <div className="flex flex-col lg:flex-row gap-2 items-center">
@@ -53,15 +53,6 @@ function ContactMeComponent() {
               className="text-2xl pl-5 text-center lg:text-left"
             >
               Connect with me on LinkedIn
-            </a>
-          </div>
-          <div className="flex flex-col lg:flex-row gap-2 items-center">
-            <RiInstagramFill className="text-4xl" />
-            <a
-              href="https://www.instagram.com/elevate.koucing?igsh=MW1yODBhY3lidm1zbw=="
-              className="text-2xl pl-5 text-center lg:text-justify"
-            >
-              Follow Elevate Koučing on Instagram
             </a>
           </div>
           <div className="flex flex-col lg:flex-row gap-2 items-center pb-20">
